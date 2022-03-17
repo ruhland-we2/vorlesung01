@@ -17,6 +17,16 @@ Ein cheat-sheet zu Markdown liegt auch in dem Verzeichnis
 
 #### Arbeit mit dem VisualStudioCode
 
+Wenn man nur eine Kopie des GitHub Repositories möchte, nutzt man einfach das Terminal in VisualStudioCode und gibt das Kommando
+
+```batch
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+In unserem Beispiel ist das
+```batch
+git clone https://github.com/ruhland-we2/vorlesung01
+```
+
 Eine Beschreibung finden Sie unter dem Link [https://code.visualstudio.com/docs/editor/github](https://code.visualstudio.com/docs/editor/github)
 
 
