@@ -28,7 +28,7 @@ git clone https://github.com/ruhland-we2/vorlesung01
 ```
 
 Wenn man aber das GitHub Repository auch schreiben möchte ( z.B. wenn man ein Entwickler in der Gruppe ist, der seinen Quellcode im Repository aktualisieren möchte ) dann benötigt man einen Account dafür.
-In Visual Studio Code muss man zuerst eine Extension installieren
+In Visual Studio Code muss man zuerst eine Extension installieren, die sog. **GitHub Pull Requests and Issues**.
 Eine Beschreibung finden Sie unter dem Link [https://code.visualstudio.com/docs/editor/github](https://code.visualstudio.com/docs/editor/github)
 
 
