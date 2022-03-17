@@ -17,7 +17,7 @@ Ein cheat-sheet zu Markdown liegt auch in dem Verzeichnis
 
 #### Arbeit mit dem VisualStudioCode
 
-Eine Beschreibung finden Sie unter dem Link [https://code.visualstudio.com/docs/editor/github]{https://code.visualstudio.com/docs/editor/github}
+Eine Beschreibung finden Sie unter dem Link [https://code.visualstudio.com/docs/editor/github](https://code.visualstudio.com/docs/editor/github)
 
 
 
