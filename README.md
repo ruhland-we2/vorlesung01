@@ -1,6 +1,6 @@
 # Web Engineering II
 
-## Vorlesung 01 vom 17.02.2022
+## Vorlesung 01 (17.02.2022)
 
 Übersicht der Web-Technologien - Präsentation
 
