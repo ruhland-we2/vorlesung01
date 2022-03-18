@@ -26,13 +26,27 @@ In unserem Beispiel ist das
 git clone https://github.com/ruhland-we2/vorlesung01
 ```
 
-Wenn man aber das GitHub Repository auch schreiben möchte ( z.B. wenn man ein Entwickler in der Gruppe ist, der seinen Quellcode im Repository aktualisieren möchte ) dann benötigt man einen Account dafür.
-In Visual Studio Code muss man zuerst eine Extension installieren, die sog. **GitHub Pull Requests and Issues**.
 Eine Beschreibung finden Sie unter dem Link [https://code.visualstudio.com/docs/editor/github](https://code.visualstudio.com/docs/editor/github)
 
+Beim ersten Aufruf der Git Extension ( Icon in der linken vertikalen Leiste in VSC ), muss man sich authentifizieren.
 
+Wenn man jetzt z.B. die README.md in VSC editiert und abspeichert wird die Änderung angezeigt.
+Diese muss man mit einem Commit und einer Commit Meldung bestätigen. Mit einem sync wird die Änderung
+auf dem GitHub Repository eingespielt.
 
+Folgende Kommandos muss man vorbereitend im Terminal von VSC eingeben
+```
+git config --global user.name "ruhland-we2"
+git config --global user.email "k.ruhland@hszg.de"
+```
 
+Bei Fehlermeldung mit der Berechtigung können folgende Kommandos helfen
+```
+git config --system --unset credential.helper
+git push --force 
+```
+der Abgleich erzwungen werden.
 #### Arbeit mit einem anderen Client Programm sourcetree
+
 
 
