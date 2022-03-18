@@ -30,7 +30,7 @@ Um schreibend auf das GitHub Repository zugreifen zu können muss man sich authe
 
 Als ersten Schritt sollte man das lokale Verzeichnis mit dem GitHub Repo synchronisieren. Dies erfolgt mit dem sync Kommando aus dem ... Popup aus der <img src="vsc-git-bar.png" height="24px">.
 
-Wenn man jetzt z.B. die README.md in VSC editiert und abspeichert wird die Änderung  in dem GitHub Icon angezeigt <img src="vsc-git-icon.png" height="24px">. Diese muss man mit einem Commit und einer Commit Meldung bestätigen. Dies erfolgt mit dem Hackchen in der Leiste <img src="vsc-git-bar.png" height="24px">. Mit dem Push wird die Änderung dann auf dem GitHub Repository eingespielt.
+Wenn man jetzt z.B. die README.md in VSC editiert und abspeichert wird die Änderung  in dem GitHub Icon angezeigt <img src="vsc-git-icon.png" height="24px">. Diese muss man mit einem Commit und einer Commit Meldung bestätigen. Dies erfolgt mit dem Hackchen in der Leiste <img src="vsc-git-bar.png" height="24px">. Mit dem Push (Sync Changes) wird die Änderung dann auf dem GitHub Repository eingespielt.
 
 Folgende Kommandos sollte man vorbereitend im Terminal von VSC eingeben
 ```
