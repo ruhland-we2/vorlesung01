@@ -1,6 +1,6 @@
 # Web Engineering II, Vorlesung01 vom 17.02.2022
 
-## Übungen
+## Übungen01 Markdown und Git
 
 ### Erstellen einen Git Accouns und eines Repositories
 
@@ -42,7 +42,4 @@ git config --system --unset credential.helper
 git push --force 
 ```
 der Abgleich erzwungen werden.
-#### Arbeit mit einem anderen Client Programm sourcetree
-
-
 
