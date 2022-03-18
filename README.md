@@ -12,7 +12,7 @@ Ein cheat-sheet zu Markdown liegt auch in dem Verzeichnis
 ### Arbeit mit dem Git Repository
 
 * Herunterladen der Dateien aus dem Git-Repository darf jeder
-* Schreiben in das Git-Repository benötigt man einen speziellen Zugriff Username/Password
+* Schreiben in das Git-Repository benötigt man einen Zugriffsrechte
 
 #### Arbeit mit dem VisualStudioCode
 
