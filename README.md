@@ -26,9 +26,11 @@ In unserem Beispiel ist das
 git clone https://github.com/ruhland-we2/vorlesung01
 ```
 
-Um schreibend auf das GitHub Repository zugreifen zu können muss man sich authentifizieren. Hierzu gibt es in VSC das Icon <img src="vsc-user-icon.png" height="24px">.
+Um schreibend auf das GitHub Repository zugreifen zu können muss man sich authentifizieren. Hierzu gibt es in VSC das Icon <img src="vsc-user-icon.png" height="24px">. Um die Authentifizierung zu vereinfachen ist es sinnvoll, wenn man sich parallel in GitHub im Browser anmeldet.
 
-Wenn man jetzt z.B. die README.md in VSC editiert und abspeichert wird die Änderung  in dem GitHub Icon angezeigt <img src="vsc-git-icon.png" height="24px">. Diese muss man mit einem Commit und einer Commit Meldung bestätigen. Dies erfolgt mit dem Hackchen in der Leiste <img src="vsc-git-bar.png" height="24px">. Mit einem sync wird die Änderung dann auf dem GitHub Repository eingespielt.
+Als ersten Schritt sollte man das lokale Verzeichnis mit dem GitHub Repo synchronisieren. Dies erfolgt mit dem sync Kommando aus dem ... Popup aus der <img src="vsc-git-bar.png" height="24px">.
+
+Wenn man jetzt z.B. die README.md in VSC editiert und abspeichert wird die Änderung  in dem GitHub Icon angezeigt <img src="vsc-git-icon.png" height="24px">. Diese muss man mit einem Commit und einer Commit Meldung bestätigen. Dies erfolgt mit dem Hackchen in der Leiste <img src="vsc-git-bar.png" height="24px">. Mit dem Push wird die Änderung dann auf dem GitHub Repository eingespielt.
 
 Folgende Kommandos sollte man vorbereitend im Terminal von VSC eingeben
 ```
