@@ -26,15 +26,11 @@ In unserem Beispiel ist das
 git clone https://github.com/ruhland-we2/vorlesung01
 ```
 
-Eine Beschreibung finden Sie unter dem Link [https://code.visualstudio.com/docs/editor/github](https://code.visualstudio.com/docs/editor/github)
+Um schreibend auf das GitHub Repository zugreifen zu können muss man sich authentifizieren. Hierzu gibt es in VSC das Icon <img src="vsc-user-icon.png" height="24px">.
 
-Beim ersten Aufruf der Git Extension ( Icon in der linken vertikalen Leiste in VSC ), muss man sich authentifizieren.
+Wenn man jetzt z.B. die README.md in VSC editiert und abspeichert wird die Änderung  in dem GitHub Icon angezeigt <img src="vsc-git-icon.png" height="24px">. Diese muss man mit einem Commit und einer Commit Meldung bestätigen. Dies erfolgt mit dem Hackchen in der Leiste <img src="vsc-git-bar.png" height="24px">. Mit einem sync wird die Änderung dann auf dem GitHub Repository eingespielt.
 
-Wenn man jetzt z.B. die README.md in VSC editiert und abspeichert wird die Änderung angezeigt.
-Diese muss man mit einem Commit und einer Commit Meldung bestätigen. Mit einem sync wird die Änderung
-auf dem GitHub Repository eingespielt.
-
-Folgende Kommandos muss man vorbereitend im Terminal von VSC eingeben
+Folgende Kommandos sollte man vorbereitend im Terminal von VSC eingeben
 ```
 git config --global user.name "ruhland-we2"
 git config --global user.email "k.ruhland@hszg.de"
