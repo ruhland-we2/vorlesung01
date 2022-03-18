@@ -9,7 +9,6 @@ Wir üben die Erstellung einer README.md markdown Datei.
 
 Ein cheat-sheet zu Markdown liegt auch in dem Verzeichnis
 
-
 ### Arbeit mit dem Git Repository
 
 * Herunterladen der Dateien aus dem Git-Repository darf jeder
